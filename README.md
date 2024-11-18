@@ -1,6 +1,6 @@
 # Machine Learning Team
 
-Welcome to the **Machine Learning (ML) Team** of **[Your Organization’s Name]**! We’re dedicated to developing innovative machine learning solutions that power the next generation of applications and solve real-world challenges.
+Welcome to the **Machine Learning (ML) Team** of **FLORYS**! We’re dedicated to developing innovative machine learning solutions that power the next generation of applications and solve real-world challenges.
 
 ---
 
