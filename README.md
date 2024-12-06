@@ -24,5 +24,5 @@ Our ML team strives to:
 We employ a range of tools and libraries to build our ML models:
 
 - **Languages**: Python
-- **Libraries**: Ultralytics, TensorFlow, TensorFlow.js, Keras, RoboFlow, OS, Matplotlib, CV2
-- **Tools**: Google Colab, Kaggle, Lightning AI
+- **Libraries**: Ultralytics, TensorFlow, Keras, RoboFlow, OS, Matplotlib, CV2
+- **Tools**: Google Colab, Kaggle
